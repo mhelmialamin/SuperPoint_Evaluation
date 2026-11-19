@@ -1,7 +1,0 @@
-Project code link: https://github.com/mhelmialamin/COMP0132_VWKM4
-
-Name: Muhammad Helmi Al Amin
-Student Number: 20110211
-Candidate Number: VWKM4
-MSc Robotics and Computation
-University College London

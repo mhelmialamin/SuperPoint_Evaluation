@@ -1,4 +1,4 @@
-Evaluation of SuperPoint for Feature Point Detection and Matching ||
+**Evaluation of SuperPoint for Feature Point Detection and Matching**
 
 This research presents a self-supervised interest point detection and description (SuperPoint) evaluation in detecting and matching feature points.
 
